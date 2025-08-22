@@ -3,7 +3,7 @@
 This guide provides a step-by-step process to restore your X6528B HOT 40I device from a bricked state using the provided tools and firmware. Follow these instructions carefully to ensure a smooth recovery.
 
 ## Prerequisites
-- **Unbrick.rar** [Releases]()
+- **Unbrick.rar** [Releases](https://github.com/KSNredawew/unbrick-X6528B-hot40i/releases/tag/unbrick)
 - **Original Firmware (V197)**: Available on [Google Drive](https://drive.usercontent.google.com/download?id=1WJWqoKDSN3JkUJEy-VWLHB-_qMEvSwaX&export=download&authuser=0) or [Yandex Disk](https://disk.yandex.ru/d/_Rc-oo57vE4PHg).
 - **UpgradeDownload/ResearchDownload Tool**: Download and extract the tool to your desktop.
 
